@@ -1,7 +1,7 @@
 /**
  * class name: Variables.java
- * author: ________
- * date:
+ * author: Raven Welch
+ * date: 5/26/2022
  * version:
  * description: This program will display summary of primitive data types.
  * source: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
